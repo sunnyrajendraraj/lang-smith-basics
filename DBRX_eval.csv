@@ -1,0 +1,4 @@
+question,answer
+How many tokens was DBRX pre-trained on?,DBRX was pre-trained on 12 trillion tokens of text and code data.
+Is DBRX a MOE model and how many parameters does it have?,"Yes, DBRX is a fine-grained mixture-of-experts (MoE) architecture with 132B total parameters."
+How many GPUs was DBRX trained on and what was the connectivity between GPUs?,DBRX was trained on 3072 NVIDIA H100s connected by 3.2Tbps Infiniband
